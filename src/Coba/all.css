@@ -1,0 +1,13 @@
+#jajargenjang {
+    width: 50vw;
+    height: 96vh;
+    bottom: 0;
+    right: -150px;
+    /* background: #9A12B3; */
+    z-index: -0;
+  
+    /* -0-transform: skew(30deg); */
+    transform: skew(-17deg);
+    /* transform: rotate(0deg); */
+    border-radius: 10px;
+}
